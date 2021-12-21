@@ -4,6 +4,8 @@
 <br>
 <hr>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archely)]
+![](https://komarev.com/ghpvc/?username=archely&color=blue)
+
+
 
 
