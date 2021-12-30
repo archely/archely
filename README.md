@@ -5,6 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=archely&color=blue)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=archely&theme=darculacolor=20232a&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=archely&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
 
 
