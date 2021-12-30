@@ -5,5 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=archely&color=blue)
 
+<img src="https://activity-graph.herokuapp.com/graph?username=thenavyinfantry&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
 
 
