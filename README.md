@@ -8,6 +8,6 @@
 
 ![](https://komarev.com/ghpvc/?username=archely&color=blue)
 
-![Snake animation](https://github.com/JessicaPersou/JessicaPersou/blob/output/github-contribution-grid-snake.svg)
+
 
 
