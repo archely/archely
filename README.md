@@ -8,3 +8,5 @@
 
 ![](https://komarev.com/ghpvc/?username=archely&color=blue)
 
+![Snake animation](https://github.com/archely/archely/blob/output/github-contribution-grid-snake.svg)
+
