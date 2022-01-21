@@ -1,4 +1,4 @@
-<h2 align ="center">Hi I'm Arda Burak Atila "archely"👋🏽</h2>
+<h2 align ="center">Hi 👋 I'm Arda Burak Atila "archely"</h2>
 <br>
 
 <p align="center">
