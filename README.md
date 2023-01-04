@@ -10,8 +10,9 @@
 
 <hr> 
 
+<center>
 ![](https://komarev.com/ghpvc/?username=archely&color=blue)
-
+</center>
 
 
 
